@@ -1,0 +1,142 @@
+*{
+padding: 0px;
+margin: 0px;
+}
+
+body{
+}
+header
+{
+background: #415e9b;
+height: 82px;
+border-bottom: 1px solid #133783;
+}
+.header-rectangular-inset{
+    width: 992px;
+    margin: 0 auto;
+    padding-top: 5px;
+
+}
+.logo{
+    width: 50%;
+    float: left;
+}
+.login-stuff{
+    width: 50%;
+    float: left;
+}
+.logo img{
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.header-rectangular-inset{
+    color: #fff;
+}
+.password{
+    float: left;
+    margin-left: 15px;
+}
+.login-button{
+    float: left;
+    margin-top: 20px;
+    margin-top:30px;
+}
+.Email{
+    float: left;
+    margin-bottom:5px;
+}
+}
+.Email label{
+    padding-bottom: 10px;
+}
+.password label{
+    padding-bottom: 10px;
+}
+.Email input[type="text"]{
+    width:150px;
+    height:20px;
+    margin-top:10px;
+}
+.password input[type="password"]{
+    width:150px;
+    height:20px;
+    margin-top:10px;
+}
+.login-button input[type="submit"]{
+    background: #4267b2;
+    border: 1px solid #29487d;
+    border-radius: 2px;
+    color: #fff;
+    height: 20px;
+    width: 50px;
+}
+.password a{
+    color: #8fb1d8;
+    text-decoration: none;
+}
+.login-button{
+    margin-left: 20px;
+}
+.clearfix{
+    clear: both;
+}
+.content-block{
+    width: 992px;
+    margin: 0 auto;
+}
+.facebook-connect p{
+    color: #0e385f;
+    font-size: 25px;
+}
+.create-account {
+    float: right;
+    margin-top: -250px;
+    margin-right: 188px; 
+    <!-- hahahahahhihihihi a negative shift-->
+    margin-right: 10px;
+}
+
+.create-account .free{
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.create-account h2{
+    font-size: 40px;
+}
+.account input[type="text"]{
+    padding: 4px;
+    border-radius: 5px;
+    height:25px;
+    margin-bottom:10px;
+}
+.account input[type="password"]{
+    padding: 4px;
+    border-radius: 5px;
+    height:25px;
+    margin-bottom:10px;
+}
+.content-container{
+    background-image: linear-gradient(#fff , #6d86e4);
+    overflow: auto;
+}
+.account .password{
+    margin-left:1px; 
+}
+.by-clicking{
+    color:#77777a;
+}
+.account input[type="submit"]{
+    padding: 15px 22ppx;
+    background: linear-gradient(#95d67c,#65a953);
+    border: 1px solid #3b6e22;
+    border-radius: 5px;
+    font-size: 25px;
+    font-color: #fff;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+}
+}
+
+                    
